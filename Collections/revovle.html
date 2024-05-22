@@ -1,0 +1,307 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../Collections/assets/css/revolve.css">
+
+    <!-- Font Awesome Link -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
+        integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"
+        integrity="sha512-9usAa10IRO0HhonpyAIVpjrylPvoDwiPUiKdWk5t3PyolY1cOd4DSE0Ga+ri4AuTroPR5aQvXU9xC6qOPnzFeg=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+    <!-- Font Awesome Link -->
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Jost:ital,wght@0,100..900;1,100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Quicksand:wght@300..700&family=Tenor+Sans&family=Urbanist:ital,wght@0,100..900;1,100..900&display=swap"
+        rel="stylesheet">
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"
+        integrity="sha512-v2CJ7UaYy4JwqLDIrZUI/4hqeoQieOmAZNXBeQyjo21dadnwR+8ZaIJVT8EE2iyI61OV8e6M8PP2/4hpQINQ/g=="
+        crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.js"
+        integrity="sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4=" crossorigin="anonymous"></script>
+
+    <title>Document</title>
+</head>
+
+<body>
+
+    <!-- _____ Start NavBar Section _____ -->
+
+ <header class="navbar-section">
+
+  <div id="visitor-count">
+    Visitors: <span id="count">0</span>
+</div>
+<div class="ticker-container">
+    <div class="ticker-content" id="ticker">
+        <!-- JavaScript will populate this with date, time, and location -->
+    </div>
+</div>
+
+  <div class="container grid grid-three-cols">
+      <div class="navbar-brand">
+          <a href="index.html">
+              <img src="../Index/assets/Images/Logo.png" alt="Creative E-commerce Website" width="38%" height="auto">
+          </a>
+      </div>
+      <div class="navbar">
+          <nav>
+              <ul>
+                  <li class="nav-item"><a class="nav-link" href="../Index/index.html">home</a></li>
+                  <li class="nav-item dropdown">
+                      <a class="nav-link">about us</a>
+                      <div class="dropdown-content">
+                          <a class="nav-link" href="../About/about.html">about stone</a>
+                      </div>
+                  </li>
+                  <li class="nav-item dropdown"><a class="nav-link">collections</a>
+                      <div class="dropdown-content">
+                          <a class="nav-link" href="../Collections/collection.html">REVOLVE</a>
+                          <a class="nav-link" href="../Collections/couturemain.html">COUTURE STONE</a>
+                          <a class="nav-link" href="../Collections/blingmain.html">BLING</a>
+                      </div>
+                  </li>
+                  <li class="nav-item"><a class="nav-link" href="../Faq/faq.html">faqs</a></li>
+                  <li class="nav-item"><a class="nav-link" href="../Contact/contact.html">contact us</a></li>
+                  <li class="nav-item"><a class="nav-link" href="../Gallery/gallery.html">Gallery</a></li>
+
+              </ul>
+          </nav>
+      </div>
+      <div class="mobile-nav-bttn">
+          <ion-icon name="menu-outline" class="mobile-nav-icon menu-icon"></ion-icon>
+          <ion-icon name="close-outline" class="mobile-nav-icon close-icon"></ion-icon>
+      </div>
+      <div class="navbar-icons">
+          <a class="add-to-cart-button" id="cart-icon">
+              <i class="fa-solid fa-bag-shopping"></i>
+          </a>
+
+          <!-- Cart -->
+          <div class="cart">
+              <h2 class="cart-title">Your Cart</h2>
+              <!-- Content -->
+              <div class="cart-content">
+
+              </div>
+              <!-- Total -->
+              <div class="total">
+                  <div class="total-title">Total</div>
+                  <div class="total-price">$0</div>
+              </div>
+              <!-- Buy Button -->
+              <button type="button" class="bttn-buy">Buy Now</button>
+              <!-- Cart Close -->
+              <i class="fa-solid fa-xmark close-cart"></i>
+          </div>
+      </div>
+  </div>
+</header>
+<!-- _____ End NavBar Section _____ -->
+
+
+    
+  <!-- _____ Start Product-detail Section _____ -->
+
+
+  <main role="main">
+    <div class="productdetail-section ">
+      <div class="Product_div container" id="content">
+        <!-- <img src="../Collections/assets/Images/TWIRL RING.webp" alt=""> -->
+
+        <!-- <div class="product-image">
+          <img src="../Collections/assets/Images/SPIRAL DIAMOND.webp" alt="">
+        </div>
+
+        <div class="product-content container">
+
+          <div class="product-heading">
+            <h1>TURQUOISE DROPLETS HOOP</h1>
+            <p>$650.00</p> border-bottom
+          </div>
+
+          <div class="product-discription">
+            <ul>
+              <li>0.05 Carats of Pave Diamonds</li>
+              <li>18 K Gold </li>
+              <li>Available In Yellow Gold, Rose Gold, White Gold </li>
+              <li>This Item Is Sold Singly</li>
+            </ul>
+            <p>Shipping</p>
+            <ul>
+              <li>We ship worldwide</li>
+              <li>Stone pieces are handcrafted with a 2-4 week lead time </li>
+              <li>You may be subject to custom fees</li>
+            </ul>
+          </div>
+
+          <div class="product-choices w-80">
+
+            <label for="option-selector-1" class="pro-label">Color</label>
+            <div class="select-options">
+              <select name="" id="option-selector-1">
+                <option value="Yellow Gold" selected>Yellow Gold</option>
+                <option value="Rose Gold">Rose Gold</option>
+                <option value="White Gold">White Gold</option>
+              </select>
+
+            </div>
+
+          </div>
+
+          <div class="product-choices w-80">
+
+            <label for="option-selector-1" class="pro-label">Size</label>
+            <div class="select-options">
+              <select name="" id="option-selector-1">
+                <option value="Yellow Gold" selected>15</option>
+                <option value="Rose Gold">20</option>
+                <option value="White Gold">25</option>
+                <option value="White Gold">25</option>
+              </select>
+
+            </div>
+
+          </div>
+
+
+          <div class="product-size w-80">
+
+            <label for="Quantity" class="pro-label">Quantity</label>
+            <input type="number" name="" id="Quantity" value="1" min="1" class="">
+
+
+          </div>
+
+          <div class="add-card-btn w-80">
+            <a class="bttn" href="">Add To Cart</a>
+          </div>
+
+          <div class="buy-card-btn w-80">
+            <a class="" href="">Buy it Now</a>
+          </div>
+
+
+
+        </div> -->
+
+      </div>
+    </div>
+  </main>
+
+
+  <!-- _____ End Product-detail Section _____ -->
+
+
+
+     <!-- _____ Start Footeer Section _____ -->
+
+  <footer>
+    <div class="container grid grid-four-cols">
+      <div class="footer-1--div">
+        <div class="logo-brand">
+          <a href="index.html" class="footer-heading">Rock Paradise</a>
+        </div>
+        <p class="footer-para">Discover Your Style Haven</p>
+        <div class="social-footer--icon">
+          <a href="" target="_blank">
+            <i class="fa-brands fa-facebook-f"></i>
+          </a>
+
+          <a href="" target="_blank">
+            <i class="fa-brands fa-instagram"></i>
+          </a>
+
+          <a href="" target="_blank">
+            <i class="fa-brands fa-youtube"></i>
+          </a>
+        </div>
+      </div>
+
+
+      <div class="footer-2--div">
+        <p class="footer-subheading">MAIN MENU</p>
+        <ul>
+          <li> <a href="index.html">home</a> </li>
+          <li> <a href="about.html">about us</a> </li>
+          <li> <a href="services.html">services</a> </li>
+          <li> <a href="faq.html">faqs</a> </li>
+          <li> <a href="contact.html">contact us</a> </li>
+        </ul>
+
+      </div>
+
+      <div class="footer-3--div">
+        <p class="footer-subheading">CUSTOMER SERVICE</p>
+        <ul>
+          <li> <a href="electrician.html">Terms & Conditions</a> </li>
+          <li> <a href="furniture.html">Delivery & Exchanges</a> </li>
+          <li> <a href="painter.html">Customer FAQs</a> </li>
+          <li> <a href="plumber.html">Prop 65</a> </li>
+          <li> <a href="welder.html">Ring Size Guide</a> </li>
+        </ul>
+      </div>
+
+      <div class="footer-4--div">
+        <p class="footer-subheading">SIGN UP AND SAVE</p>
+        <ul>
+          <li><a href="contact.html"><span><i class="fa-solid fa-location-dot"></i></span> Karachi,
+              Pakistan</a></li>
+          <li><a href="contact.html"><span><i class="fa-solid fa-phone"></i></span>+92 3094749930</a></li>
+          <!-- <li><a class="mail" type="email" href="contact.html"><span><i
+                  class="fa-solid fa-envelope"></i></span>saeedtuttorial786@gmail.com</a></li> -->
+          <li>
+            <input type="email" id="footer-mail" autocomplete="off" required placeholder="Enter your email">
+            <i class="fa-solid fa-envelope" style="color: black;"></i>
+          </li>
+        </ul>
+      </div>
+
+    </div>
+
+    <div class="container">
+      <div class="f-credits">
+        <p>Copyright ©2024 All rights reserved | This Website is made with ❤ by Saeed Baloch</p>
+      </div>
+    </div>
+    </div>
+
+  </footer>
+
+  <!-- _____ End Footeer Section _____ -->
+
+  <script src="../Index/assets/JS/addcard.js"></script>
+  <script src="../Collections/assets/JS/revovle.js"></script>
+  <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
+  <script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
+
+
+  <script>
+    document.addEventListener("DOMContentLoaded", () => {
+      const mobileNavButton = document.querySelector(".mobile-nav-bttn");
+      const navHeader = document.querySelector(".navbar-section");
+      const menuIcon = document.querySelector(".mobile-nav-icon.menu-icon");
+      const closeIcon = document.querySelector(".mobile-nav-icon.close-icon");
+
+      const toggleNavbar = () => {
+        navHeader.querySelector(".navbar").classList.toggle("active");
+        menuIcon.classList.toggle("active");
+        closeIcon.classList.toggle("active");
+      };
+
+      mobileNavButton.addEventListener("click", toggleNavbar);
+    });
+
+  </script>
+
+</body>
+
+

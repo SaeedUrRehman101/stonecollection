@@ -1,0 +1,257 @@
+{
+    "Crecent": [
+        {
+            "image": "../Product Detail Pages/assets/images/Crecent.webp",
+            "heading": "DIAMOND ELONGATED CRESCENT NECKLACE",
+            "para": "$4,000.00",
+            "li_f": "1.3 Carats of White Diamonds  ",
+            "li_s": "18K Gold ",
+            "li_t": "Available in Yellow, Rose and White Gold ",
+            "li_fr": "Crescent size 2cm",
+            "para_s" : "Shipping " ,
+            "li_fif" : "Item ships worldwide" ,
+            "li_six" : "All pieces are handcrafted with a 2-4 week lead time " ,
+            "li_sev" : "Customs and Duties may apply" ,
+            "lab": "Color",
+            "opt_f": "Yellow Gold",
+            "opt_s": "Rose Gold",
+            "opt_t": "White Gold",
+            "pro_lab": "Quantity",
+            "btn_1": "Add To Cart",
+            "btn_2": "Buy it Now"
+        }
+    ],
+    "Emerald": [
+        {
+            "image": "../Product Detail Pages/assets/images/Emerald.webp",
+            "heading": "EMERALD DROPLETS HOOP",
+            "para": "$800.00",
+            "li-f": "0.5 Cts of Zambian Pear Emeralds ",
+            "li-s": "0.05 Cts of Pave Diamonds on Hoop",
+            "li-t": "18 K Gold ",
+            "li-fr": "Available In Yellow Gold, Rose Gold, White Gold",
+            "para-s" : "Shipping " ,
+            "li-fif" : "We ship worldwide" ,
+            "li-six" : "Stone pieces are handcrafted with a 2-4 week lead time " ,
+            "li-sev" : "You may be subject to custom fees" ,
+            "lab": "Color",
+            "opt-f": "Yellow Gold",
+            "opt-s": "Rose Gold",
+            "opt-t": "White Gold",
+            "pro-lab": "Quantity",
+            "btn-1": "Add To Cart",
+            "btn-2": "Buy it Now"
+        }
+    ],
+    "Turquoise": [
+        {
+            "image": "../Product Detail Pages/assets/images/turquo.webp",
+            "heading": "TURQUOISE DROPLETS HOOP",
+            "para": "$650.00",
+            "li-f": "0.05 Carats of Pave Diamonds",
+            "li-s": "18 K Gold ",
+            "li-t": "This Item Is Sold Singly",
+            "li-fr": "Available In Yellow Gold, Rose",
+            "para-s" : "Shipping " ,
+            "li-fif" : "We ship worldwide" ,
+            "li-six" : "Stone pieces are handcrafted with a 2-4 week lead time " ,
+            "li-sev" : "You may be subject to custom fees" ,
+            "lab": "Color",
+            "opt-f": "Yellow Gold",
+            "opt-s": "Rose Gold",
+            "opt-t": "White Gold",
+            "pro-lab": "Quantity",
+            "btn-1": "Add To Cart",
+            "btn-2": "Buy it Now"
+        }
+    ],"Blue Sapphire": [
+        {
+            "image": "../Product Detail Pages/assets/images/Blue Sapphire.webp",
+            "heading": "BLUE SAPPHIRE ANGEL EARRING",
+            "para": "$6,700.00",
+            "li-f": "1.92 -2.2 Carats of Blue Sapphires",
+            "li-s": "18 K Gold ",
+            "li-t": "Measure 4 cm Length, 1.5 cm Width",
+            "li-fr": "Available in White, Rose and Yellow",
+            "para-s" : "Shipping " ,
+            "li-fif" : "We ship worldwide" ,
+            "li-six" : "Stone pieces are handcrafted with a 2 week lead time " ,
+            "li-sev" : "You may be subject to custom fees" ,
+            "lab": "Color",
+            "opt-f": "Rose",
+            "opt-s": "White",
+            "opt-t": "Yellow",
+            "pro-lab": "Quantity",
+            "btn-1": "Add To Cart",
+            "btn-2": "Buy it Now"
+        }
+    ],"Tiger Eye": [
+        {
+            "image": "../Product Detail Pages/assets/images/tigereye.webp",
+            "heading": "TIGER EYE DIAMOND CHARM",
+            "para": "$2,000.00",
+            "li-f": "0.35 Cataya of White Diamonds ",
+            "li-s": "18 K Gold ",
+            "li-t": "This Item Is Sold Singly",
+            "li-fr": "Available in Rose & Yellow Gold ",
+            "para-s" : "Shipping " ,
+            "li-fif" : "Item ships worldwide" ,
+            "li-six" : "All pieces are handcrafted with a 2-4 week lead time " ,
+            "li-sev" : "Customs and Duties may apply" ,
+            "lab": "Color",
+            "opt-f": "Rose Gold",
+            "opt-s": "White Gold",
+            "opt-t": "Yellow Gold",
+            "pro-lab": "Quantity",
+            "btn-1": "Add To Cart",
+            "btn-2": "Buy it Now"
+        }
+    ],"Hala Diamond": [
+        {
+            "image": "../Product Detail Pages/assets/images/Hala Diamond.webp",
+            "heading": "HALA DIAMOND EYE CHARM",
+            "para": "$2,200.00",
+            "li-f": "0.5 Carats of White Diamonds",
+            "li-s": "G Color Vs Clarity",
+            "li-t": "T18K Rose Gold",
+            "li-fr": "Approximate Diameter 2.2 cm",
+            "para-s" : "Shipping " ,
+            "li-fif" : "Item ships worldwide" ,
+            "li-six" : "Stone pieces are handcrafted with a 2-4 week lead time " ,
+            "li-sev" : "Customs and Duties may apply" ,
+            "lab": "Color",
+            "opt-f": "Rose Gold",
+            "opt-s": "White Gold",
+            "opt-t": "Yellow Gold",
+            "pro-lab": "Quantity",
+            "btn-1": "Add To Cart",
+            "btn-2": "Buy it Now"
+        }
+    ],"Victory Chain": [
+        {
+            "image": "../Product Detail Pages/assets/images/Victory Chain.webp",
+            "heading": "VICTORY CHAIN WITH DIAMONDS",
+            "para": "$6,000.00",
+            "li-f": "18K Gold",
+            "li-s": "33 Grams (the chain)",
+            "li-t": "Available in Yellow and Rose Gold",
+            "li-fr": "Prices may vary according to chain lengths",
+            "para-s" : "Shipping " ,
+            "li-fif" : "We ship worldwide" ,
+            "li-six" : "Stone pieces are handcrafted with a 2-4 week lead time " ,
+            "li-sev" : "You may be subject to custom fees" ,
+            "lab": "Color",
+            "opt-f": "Rose Gold",
+            "opt-s": "White Gold",
+            "opt-t": "Yellow Gold",
+            "pro-lab": "Quantity",
+            "btn-1": "Add To Cart",
+            "btn-2": "Buy it Now"
+        }
+    ],"Emerald Pear": [
+        {
+            "image": "../Product Detail Pages/assets/images/Emerald Pear.webp",
+            "heading": "EMERALD PEAR EARCUFF",
+            "para": "$2,800.00",
+            "li-f": "1.85 Carats of Zambian Emeralds",
+            "li-s": "18 K ",
+            "li-t": "Available in Black Rhodium, Rose Gold, Yellow Gold, White Gold ",
+            "li-fr": "This Piece is Sold Singly (One Side)",
+            "para-s" : "Shipping " ,
+            "li-fif" : "We ship worldwide" ,
+            "li-six" : "All pieces are handcrafted with a 2-4 week lead time  " ,
+            "li-sev" : "Customs and Duties may apply" ,
+            "lab": "Color",
+            "opt-f": "Rose Gold",
+            "opt-s": "White Gold",
+            "opt-t": "Yellow Gold",
+            "pro-lab": "Quantity",
+            "btn-1": "Add To Cart",
+            "btn-2": "Buy it Now"
+        }
+    ],"Pears Earcuff": [
+        {
+            "image": "../Product Detail Pages/assets/images/Pears Earcuff.webp",
+            "heading": "EMERALD CLUSTER PEARS EARCUFF",
+            "para": "$1,800.00",
+            "li-f": "9 Emerald Pears 1.27 Carats of Zambian Emeralds ",
+            "li-s": "18 K Black Rhodium Gold ",
+            "li-t": "Available in Black Rhodium, Rose Gold, Yellow Gold, White Gold ",
+            "li-fr": "This Piece is Sold Singly ( One Side) ",
+            "para-s" : "Shipping " ,
+            "li-fif" : "We ship worldwide" ,
+            "li-six" : "All pieces are handcrafted with a 2-4 week lead time  " ,
+            "li-sev" : "Customs and Duties may apply" ,
+            "lab": "Color",
+            "opt-f": "Rose Gold",
+            "opt-s": "White Gold",
+            "opt-t": "Yellow Gold",
+            "pro-lab": "Quantity",
+            "btn-1": "Add To Cart",
+            "btn-2": "Buy it Now"
+        }
+    ],"Spike Diamond": [
+        {
+            "image": "../Product Detail Pages/assets/images/Spike Diamond.webp",
+            "heading": "SPIKE DIAMOND EARRING",
+            "para": "$2,800.00",
+            "li-f": "1.25 Carats of White Diamonds",
+            "li-s": "G Color Vs Clarity",
+            "li-t": "18K Gold ",
+            "li-fr": "Available in White, Rose and Yellow Gold",
+            "para-s" : "Shipping " ,
+            "li-fif" : "We ship worldwide" ,
+            "li-six" : "Stone pieces are handcrafted with a 2-4 week lead time  " ,
+            "li-sev" : "You may be subject to custom fees" ,
+            "lab": "Color",
+            "opt-f": "Rose Gold",
+            "opt-s": "White Gold",
+            "opt-t": "Yellow Gold",
+            "pro-lab": "Quantity",
+            "btn-1": "Add To Cart",
+            "btn-2": "Buy it Now"
+        }
+    ],"Diamond Marquise": [
+        {
+            "image": "../Product Detail Pages/assets/images/Diamond Ma.webp",
+            "heading": "DIAMOND MARQUISE TWO DROPLETS HOOP",
+            "para": "$2,400.00",
+            "li-f": "0.25 Carats of Marquise Diamonds (Each Stone)",
+            "li-s": "0.05 Cts of Pave Diamonds on Hoop",
+            "li-t": "18K Gold ",
+            "li-fr": "Available in White, Rose and Yellow Gold",
+            "para-s" : "Shipping " ,
+            "li-fif" : "We ship worldwide" ,
+            "li-six" : "Stone pieces are handcrafted with a 2-4 week lead time  " ,
+            "li-sev" : "You may be subject to custom fees" ,
+            "lab": "Color",
+            "opt-f": "Rose Gold",
+            "opt-s": "White Gold",
+            "opt-t": "Yellow Gold",
+            "pro-lab": "Quantity",
+            "btn-1": "Add To Cart",
+            "btn-2": "Buy it Now"
+        }
+    ],"Pink Sapphire": [
+        {
+            "image": "../Product Detail Pages/assets/images/Pink Sapphire.webp",
+            "heading": "PINK SAPPHIRE DROPLETS HOOP",
+            "para": "$800.00",
+            "li-f": "0.6 Cts of Pink Sapphires",
+            "li-s": "0.05 Cts of Pave Diamonds on Hoop",
+            "li-t": "18K Gold ",
+            "li-fr": "Available In Yellow Gold, Rose Gold, White Gold",
+            "para-s" : "Shipping " ,
+            "li-fif" : "We ship worldwide" ,
+            "li-six" : "Stone pieces are handcrafted with a 2-4 week lead time  " ,
+            "li-sev" : "You may be subject to custom fees" ,
+            "lab": "Color",
+            "opt-f": "Rose Gold",
+            "opt-s": "White Gold",
+            "opt-t": "Yellow Gold",
+            "pro-lab": "Quantity",
+            "btn-1": "Add To Cart",
+            "btn-2": "Buy it Now"
+        }
+    ]
+}
